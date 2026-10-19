@@ -1,0 +1,33 @@
+{
+  "name": "google-ortools-agent-skills",
+  "version": "1.0.0",
+  "description": "AI Agent Skills for Google OR-Tools (developers.google.com/optimization): CP-SAT, LP/MILP, MathOpt, Vehicle Routing (TSP/VRP/CVRPTW), Scheduling, Network Flows, and Packing.",
+  "keywords": [
+    "agent-skills",
+    "skills-sh",
+    "google-ortools",
+    "or-tools",
+    "optimization",
+    "operations-research",
+    "cp-sat",
+    "vehicle-routing",
+    "vrp",
+    "tsp",
+    "scheduling",
+    "linear-programming",
+    "mip",
+    "mathopt",
+    "claude-code",
+    "cursor",
+    "antigravity"
+  ],
+  "author": "yucel-yilmaz",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yucel-yilmaz/google-ortools-skills.git"
+  },
+  "files": [
+    "skills/"
+  ]
+}
